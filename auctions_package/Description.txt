@@ -1,0 +1,1 @@
+I will build a package for finding equilibrium bidding distributions in First, Second, and Allpay auctions. 
